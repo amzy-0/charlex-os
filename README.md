@@ -104,8 +104,3 @@ $ chmod +x ./gccCrossCompiler
 
 $./gccCrossComplier
 
-# report bug or problems
-
-send bug or anythings : amzy0zone@gmail.com
-
-thanks for reading this ! :)
